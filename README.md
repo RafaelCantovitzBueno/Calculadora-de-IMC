@@ -19,8 +19,8 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/RafaelCantovitzBueno/calculadora-imc.git
-   cd calculadora-imc
+   git clone https://github.com/RafaelCantovitzBueno/Calculadora-de-IMC.git
+   cd Calculadora-de-IMC
    ```
 
 2. Instale as dependências do projeto:
