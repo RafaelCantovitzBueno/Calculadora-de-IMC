@@ -19,7 +19,7 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seuusuario/calculadora-imc.git
+   git clone https://github.com/RafaelCantovitzBueno/calculadora-imc.git
    cd calculadora-imc
    ```
 
