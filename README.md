@@ -41,6 +41,7 @@ A interface gráfica da calculadora será aberta para uso.
 - Cálculo automático do IMC
 - Exibição da classificação de acordo com a tabela de IMC
 - Interface gráfica amigável e responsiva
+- Suporte a mudança de tema (claro e escuro)
 
 ## Licença
 
